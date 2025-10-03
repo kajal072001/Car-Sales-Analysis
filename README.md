@@ -25,7 +25,8 @@ It provides a clear and interactive view of business performance across differen
 ---
 
 ## 📂 Project Files
-- `Car_Project.pbix` → Power BI report file  
+- `Car_Project.pbix` → Power BI report file
+- `Main_Dashboard.png` → Main dashboard with insights  
 - `Decomposition Tree.png` → Decomposition Tree Visualization  
 - `Detailed Insight.png` → Dealer Dynamic Insight Dashboard  
 
@@ -34,9 +35,9 @@ It provides a clear and interactive view of business performance across differen
 ## 📸 Dashboard Outputs
 
 
-## 🔹 Dashboard Snapshot
+## 🔹 Main Dashboard
 
-![Dealer Dynamic Overview Dashboard](Main Dashboard.png)
+![Dealer Dynamic Overview Dashboard](Main_Dashboard.png)
 
 ### 🔹 Decomposition Tree
 ![Decomposition Tree](Decomposition%20Tree.png)
@@ -63,5 +64,5 @@ It provides a clear and interactive view of business performance across differen
 ---
 
 ## 📧 Contact
-Created by **[Your Name]**  
+Created by **Kajal Kewat**  
 📩 Feel free to connect for collaboration or suggestions.
