@@ -36,7 +36,7 @@ It provides a clear and interactive view of business performance across differen
 
 ## 🔹 Dashboard Snapshot
 
-![Dealer Dynamic Overview Dashboard](Main Dashboard.jpg)
+![Dealer Dynamic Overview Dashboard](Main Dashboard.png)
 
 ### 🔹 Decomposition Tree
 ![Decomposition Tree](Decomposition%20Tree.png)
